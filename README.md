@@ -1,6 +1,6 @@
-# Stemwijzer Analysis
+# Stemwijzer 
 
-An exploratory analysis of Dutch political party positions based on data from [Stemwijzer](https://www.stemwijzer.nl/), the official voting advice website for the 2025 parliamentary elections.
+An exploratory analysis of Dutch political party positions based on data from [Stemwijzer](https://www.stemwijzer.nl/), a voting advice website.
 
 This project scrapes party positions on 30 political issues and uses dimensionality reduction techniques (t-SNE and PCA) to visualize ideological patterns and clusters. 
 
