@@ -1,0 +1,17 @@
+name: stemwijzer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - notebook
+  - jupyterlab
+  - matplotlib
+  - ipywidgets
+  - numpy
+  - selenium
+  - webdriver-manager
+  - pandas
+  - nltk
+  - wordcloud
+  - scikit-learn
